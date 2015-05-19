@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JerseyCustomizer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jersey_info">JerseyInfoActivity</string>
+
+    <string name="jersey_name">Default</string>
+    <string name="jersey_number">0</string>
+    <string name="edit_button">Edit</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="blue_jersey">Blue Jersey</string>
+    <string name="red_jersey">Red Jersey</string>
+</resources>
