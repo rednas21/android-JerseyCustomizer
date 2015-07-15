@@ -51,6 +51,7 @@ public class JerseyInfoActivity extends Activity implements View.OnClickListener
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_jersey_info, menu);
+        getActionBar().setDisplayHomeAsUpEnabled(false);
         return true;
     }
 
